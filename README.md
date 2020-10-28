@@ -1,4 +1,4 @@
-### Hello! These are various projects I have developed. Click on the Project title to go to the Github. Enjoy!
+### Hello! These are various projects I have developed. Click on the Project title to go to the Github Repo. Enjoy!
 # [Project 1: MLB Teams Deviations Analysis](https://github.com/YussofKazmi/MLB-Deviations-Project)
 
 ### Analyzes Every MLB Team From Every Season, 1871 to 2018, and Computes  
