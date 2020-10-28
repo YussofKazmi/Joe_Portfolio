@@ -2,7 +2,7 @@
 
 # [Project 1: Big Data Heart Disease Classifier](https://github.com/YussofKazmi/MLB-Deviations-Project)
 1. Utilizes Patient Data from a Hungarian Medical Journal to classify if a patient has Heart Disease
-2. Implements PySpark to organize dtaa retrieved from an Amazon Web Services Bucket
+2. Implements PySpark to organize data retrieved from an Amazon Web Services Bucket
 3. Impelents Random Forest Classificaton Algorithm on Hadoop, in Amazon Web Services
 
 # [Project 2: MLB Teams Deviations Analysis](https://github.com/YussofKazmi/MLB-Deviations-Project)
