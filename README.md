@@ -1,13 +1,14 @@
 ### Hello! These are various projects I have developed. Click on the Project title to go to the Github Repo. Enjoy!
 
 # [Project 1: Big Data Heart Disease Classifier](https://github.com/YussofKazmi/MLB-Deviations-Project)
+### Machine Learning Model implemented on hadoop, in Amazon Web Services
 1. Utilizes Patient Data from a Hungarian Medical Journal to classify if a patient has Heart Disease
 2. Implements PySpark to organize data retrieved from an Amazon Web Services Bucket
 3. Impelents Random Forest Classificaton Algorithm on Hadoop, in Amazon Web Services
 
 # [Project 2: MLB Teams Deviations Analysis](https://github.com/YussofKazmi/MLB-Deviations-Project)
 
-### Analyzes Every MLB Team From Every Season, 1871 to 2018, and Computes  
+### Organizes Analyzes Every MLB Team From Every Season, 1871 to 2018  
 1. List the top 50 teams performances, Top 10 overperforming/underperforming teams (actually won/lost more games than expected)
 2. Computes all team stats for all Home and Away games to deduce if a Home Field Advanatge had a role in their win/Loss Performances
 3. Implements Pandas and NumPy For Data Cleaning, Aggregation, and Analysis
