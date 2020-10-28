@@ -6,4 +6,5 @@
 * Computes all team stats for all Home and Away games to deduce if a Home Field Advanatge had a role in their win/Loss Performances
 * Implements Pandas and NumPy For Data Cleaning, Aggregation, and Analysis
 
-![](https://github.com/YussofKazmi/MLB-Deviations-Project/blob/main/MLBProject5Capture.PNG  width="400px")
+![](https://github.com/YussofKazmi/MLB-Deviations-Project/blob/main/MLBProject5Capture.PNG)
+<img src="https://github.com/YussofKazmi/MLB-Deviations-Project/blob/main/MLBProject5Capture.PNG" width="48">
