@@ -1,5 +1,11 @@
 ### Hello! These are various projects I have developed. Click on the Project title to go to the Github Repo. Enjoy!
-# [Project 1: MLB Teams Deviations Analysis](https://github.com/YussofKazmi/MLB-Deviations-Project)
+
+# [Project 1: Big Data Heart Disease Classifier](https://github.com/YussofKazmi/MLB-Deviations-Project)
+1. Utilizes Patient Data from a Hungarian Medical Journal to classify if a patient has Heart Disease
+2. Implements PySpark to organize dtaa retrieved from an Amazon Web Services Bucket
+3. Impelents Random Forest Classificaton Algorithm on Hadoop, in Amazon Web Services
+
+# [Project 2: MLB Teams Deviations Analysis](https://github.com/YussofKazmi/MLB-Deviations-Project)
 
 ### Analyzes Every MLB Team From Every Season, 1871 to 2018, and Computes  
 1. List the top 50 teams performances, Top 10 overperforming/underperforming teams (actually won/lost more games than expected)
@@ -8,7 +14,7 @@
 
 ![](/images/MLBProject5Capture.PNG)
 
-# [Project 2: Bitcoin Trading-Pattern Machine Learning Analysis](https://github.com/YussofKazmi/BitCoinTradingPatternsTestRepository)
+# [Project 3: Bitcoin Trading-Pattern Machine Learning Analysis](https://github.com/YussofKazmi/BitCoinTradingPatternsTestRepository)
 
 ### Uses Machine Learning Classification Algorithms To Flag Bitcoin Trading Patterns 
 1. Implemented 5 Machine Learning Classification Algorithms and Pandas to analyze and classify Bitcoin Trading Patterns of 30 Bitcoin Trading Entities
