@@ -17,7 +17,7 @@
 
 ![](/images/Support_Vector_Machines_Screen.JPG)
 
-# [Project 3: Bioinformatics Gene Motif Calculator](https://github.com/YussofKazmi/BitCoinTradingPatternsTestRepository)
+# [Project 4: Bioinformatics Gene Motif Calculator](https://github.com/YussofKazmi/BitCoinTradingPatternsTestRepository)
 
 ### Uses Machine Learning Classification Algorithms To Flag Bitcoin Trading Patterns 
 1. Implements Stochastic Modeling and Monte Carlo Simulations to compute probabilities of gene motif (Gene Code Pattern) appearance over multiple genetic code
@@ -26,3 +26,13 @@
 
 ![](/images/motifCheckerphoto1.png)
 ![](/images/motifcheckerplot2.png)
+
+# [Project 5: Calculator Mobile Application](https://github.com/YussofKazmi/BitCoinTradingPatternsTestRepository)
+
+### Calculator Application Developed For Android Operating System 
+1. Used XML and Android Studio To Develop UI
+2. Backend and functionality engineered in Kotlin
+3. Allows complex computation with siginificant digits
+
+
+![](/images/calculator.png)
