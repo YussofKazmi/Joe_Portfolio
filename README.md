@@ -1,12 +1,11 @@
 # Joe Kazmi's Project Portfolio Website 
 ##### Hello! Here, are some of my favorite projects I have done, generally Data Science-based ones, but there are others using different technologies
 
-# [MLB Deviations Analysis](https://github.com/YussofKazmi/MLB-Deviations-Project)
+# [Project 1 MLB Teams Deviations Analysis](https://github.com/YussofKazmi/MLB-Deviations-Project)
 
 #### This Project works in three phases, and analyzes every MLB Team from every season, 1871 to 2018 Implements Pandas and NumPy For Data Cleaning, Aggregation, and Analysis
-* List the top 50 teams performances - measured by how many games the team outperformed (more wins) their expected win loss in the given year.
-* Calculate the average deviation (in games) between actual performance and expected performance across all years for each team
-* Lists top 10 overperforming teams (actually won more games than expected) and top 10 underperforming teams (actually won less games than expected).
-* Lists all teams, and their win stats, and deviations form expected performances during Home and Away games to deduce if a Home Field Advnatge had a role in their win/Loss Performances
+* List the top 50 teams performances, Top 10 overperforming/underperforming teams (actually won/lost more games than expected)
+* Computes all team stats for all Home and Away games to deduce if a Home Field Advanatge had a role in their win/Loss Performances
+* Implements Pandas and NumPy For Data Cleaning, Aggregation, and Analysis
 
 ![](https://github.com/YussofKazmi/MLB-Deviations-Project/blob/main/MLBProject5Capture.PNG)
