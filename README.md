@@ -1,6 +1,4 @@
-# Joe Kazmi's Project Portfolio Website 
-##### Hello! Here, are some of my favorite projects I have done, generally Data Science-based ones, but there are others using different technologies
-
+ 
 # [Project 1 MLB Teams Deviations Analysis](https://github.com/YussofKazmi/MLB-Deviations-Project)
 
 #### This Project works in three phases, and analyzes every MLB Team from every season, 1871 to 2018 Implements Pandas and NumPy For Data Cleaning, Aggregation, and Analysis
