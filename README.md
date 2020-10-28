@@ -7,4 +7,4 @@
 ### * Implements Pandas and NumPy For Data Cleaning, Aggregation, and Analysis
 
 
-<img src="/images/MLBProject5Capture.PNG" height="350">
+<img src="/images/MLBProject5Capture.PNG" >
