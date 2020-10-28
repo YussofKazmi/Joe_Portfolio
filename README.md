@@ -30,7 +30,7 @@
 # [Project 5: Calculator Mobile Application](https://github.com/YussofKazmi/BitCoinTradingPatternsTestRepository)
 
 ### Calculator Application Developed For Android Operating System 
-1. Used XML and Android Studio To Develop UI
+1. Used XML and Android Studio To Develop Frontend UI
 2. Backend and functionality engineered in Kotlin
 3. Allows complex computation with siginificant digits
 
